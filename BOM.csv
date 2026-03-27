@@ -12,3 +12,4 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "18pF ±5% 50V Ceramic Capacitor","Used with crystal ",100,0.67,"https://www.lcsc.com/product-detail/C113825.html","LCSC"
 "100nF ±10% 50V Ceramic Capacitor X7R 0805","Decoupling capacitors",50,0.31,"https://www.lcsc.com/product-detail/C1711.html","LCSC"
 "1uF ±10% 50V Ceramic Capacitor","Decoupling capacitors",20,0.28,"https://www.lcsc.com/product-detail/C28323.html","LCSC"
+Additionally (things I already have at home: rectifier diodes (any kind, preferably 1N4148), Cherry switches (you can find them on AliExpress), and an EC11 encoder, which you can also find on AliExpress). I didn’t include them because I can’t add items on the site that I don’t want to receive funding for.
