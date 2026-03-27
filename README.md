@@ -66,4 +66,6 @@ You dont have to do anything. use circutpython to flash macropad code and pray i
 | 100nF ±10% 50V Ceramic Capacitor X7R 0805 | Decoupling capacitors | 50 | 0.31 | https://www.lcsc.com/product-detail/C1711.html | LCSC |
 | 1uF ±10% 50V Ceramic Capacitor | Decoupling capacitors | 20 | 0.28 | https://www.lcsc.com/product-detail/C28323.html | LCSC |
 
+Additionally (things I already have at home: rectifier diodes (any kind, preferably 1N4148), Cherry switches (you can find them on AliExpress), and an EC11 encoder, which you can also find on AliExpress). I didn’t include them because I can’t add items on the stasis site that I don’t want to receive grant for.
+
 You can use this all. dont forget to star my work :))
