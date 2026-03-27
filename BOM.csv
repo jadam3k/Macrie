@@ -12,4 +12,4 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "18pF ±5% 50V Ceramic Capacitor","Used with crystal",100,0.67,"https://www.lcsc.com/product-detail/C113825.html","LCSC"
 "100nF ±10% 50V Ceramic Capacitor X7R 0805","Decoupling capacitors",50,0.31,"https://www.lcsc.com/product-detail/C1711.html","LCSC"
 "1uF ±10% 50V Ceramic Capacitor","Decoupling capacitors",20,0.28,"https://www.lcsc.com/product-detail/C28323.html","LCSC"
-"Additional components","Rectifier diodes (preferably 1N4148), Cherry switches, EC11 encoder",1,0.00,"AliExpress","Self-supplied"
+"Additional components that i cannot include in bom because i have these in my house","Rectifier diodes (preferably 1N4148), Cherry switches, EC11 encoder",1,0.00,"AliExpress","Self-supplied - you can find these on aliexpress/LCSC"
